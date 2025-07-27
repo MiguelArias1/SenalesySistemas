@@ -1,1 +1,2 @@
-# Exercises-SyS-Miguel-Angel-Arias-Ocampo-2
+# SenalesySistemas
+Curso Señales y Sistemas UNAL
